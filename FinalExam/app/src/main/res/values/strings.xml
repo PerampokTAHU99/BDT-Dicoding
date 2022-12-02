@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="cat_name">Nama Kucing</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="name">Theo Fahrizal Syam</string>
+    <string name="email">theofahrizals@gmail.com</string>
+    <string name="about">About</string>
+    <string name="jenis_kucing">Jenis Kucing</string>
+</resources>
